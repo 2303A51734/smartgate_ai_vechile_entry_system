@@ -1,0 +1,17 @@
+opencv-python
+easyocr
+requests
+numpy
+ultralytics
+torch
+torchvision
+torchaudio
+fastapi
+uvicorn
+motor
+python-dotenv
+python-multipart
+pydantic
+pydantic-settings
+python-socketio
+aiohttp

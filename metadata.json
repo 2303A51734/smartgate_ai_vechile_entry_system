@@ -1,0 +1,7 @@
+{
+  "name": "SmartGate AI - Vehicle Entry System",
+  "description": "A self-hosted, AI-powered vehicle entry management system using YOLOv8 and EasyOCR for real-time detection and logging.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
